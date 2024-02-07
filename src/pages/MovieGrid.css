@@ -51,6 +51,8 @@
   padding: 1rem 0.5rem;
   align-items: center;
   transition: .4s;
+  text-align: center;
+  font-weight: bold;
 }
 
 .movies-container div a:hover {
